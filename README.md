@@ -15,17 +15,7 @@ Generate base project for iOS Application.
     ├── Info.plist
     ├── InfoPlist.strings
     ├── ProjectName.xcodeproj
-    │     ├── project.pbxproj
-    │     ├── project.xcworkspace
-    │     │     ├── contents.xcworkspacedata
-    │     │     └── xcuserdata
-    │     │            └── handle.xcuserdatad
-    │     │                   └── UserInterfaceState.xcuserstate
-    │     └── xcuserdata
-    │            └── handle.xcuserdatad
-    │                   └── xcschemes
-    │                          ├── ProjectName.xcscheme
-    │                          └── xcschememanagement.plist
+    │     └── project.pbxproj
     ├── lib
     ├── resource
     │     ├── image
