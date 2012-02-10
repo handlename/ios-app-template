@@ -3,7 +3,6 @@
 @implementation BaseController
 
 -(void)initialize {
-    self.view.backgroundColor = UICOLOR_BASE_BACKGROUND;
 }
 
 -(id)initWithNibName:(NSString*)nibName bundle:(NSBundle*)nibBundle {
