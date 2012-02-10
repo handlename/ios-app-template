@@ -13,7 +13,7 @@
 		0A1CFF1414E502D200FCE2EA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A1CFF1314E502D200FCE2EA /* main.m */; };
 		0A1CFF1814E502D200FCE2EA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A1CFF1714E502D200FCE2EA /* AppDelegate.m */; };
 		0A1CFF2614E507BA00FCE2EA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0A1CFF2514E507BA00FCE2EA /* InfoPlist.strings */; };
-		0A1CFF2914E508AB00FCE2EA /* MainWindowView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A1CFF2814E508AB00FCE2EA /* MainWindowView.xib */; };
+		0A1CFF2914E508AB00FCE2EA /* MainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A1CFF2814E508AB00FCE2EA /* MainView.xib */; };
 		0A1CFF3C14E5140100FCE2EA /* BaseController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A1CFF3B14E5140100FCE2EA /* BaseController.m */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +28,7 @@
 		0A1CFF1714E502D200FCE2EA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = src/AppDelegate.m; sourceTree = "<group>"; };
 		0A1CFF2514E507BA00FCE2EA /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
 		0A1CFF2714E507FD00FCE2EA /* common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = common.h; path = src/common.h; sourceTree = "<group>"; };
-		0A1CFF2814E508AB00FCE2EA /* MainWindowView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainWindowView.xib; path = resource/view/MainWindowView.xib; sourceTree = "<group>"; };
+		0A1CFF2814E508AB00FCE2EA /* MainView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainView.xib; path = resource/view/MainView.xib; sourceTree = "<group>"; };
 		0A1CFF3A14E5140100FCE2EA /* BaseController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BaseController.h; path = src/controller/BaseController.h; sourceTree = "<group>"; };
 		0A1CFF3B14E5140100FCE2EA /* BaseController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BaseController.m; path = src/controller/BaseController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -119,7 +119,7 @@
 		0A1CFF2214E5031000FCE2EA /* view */ = {
 			isa = PBXGroup;
 			children = (
-				0A1CFF2814E508AB00FCE2EA /* MainWindowView.xib */,
+				0A1CFF2814E508AB00FCE2EA /* MainView.xib */,
 			);
 			name = view;
 			sourceTree = "<group>";
@@ -189,7 +189,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A1CFF2614E507BA00FCE2EA /* InfoPlist.strings in Resources */,
-				0A1CFF2914E508AB00FCE2EA /* MainWindowView.xib in Resources */,
+				0A1CFF2914E508AB00FCE2EA /* MainView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
