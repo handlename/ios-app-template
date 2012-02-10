@@ -19,8 +19,8 @@ Generate base project for iOS Application.
     │     ├── project.xcworkspace
     │     │     ├── contents.xcworkspacedata
     │     │     └── xcuserdata
-    │     │         └── handle.xcuserdatad
-    │     │             └── UserInterfaceState.xcuserstate
+    │     │            └── handle.xcuserdatad
+    │     │                   └── UserInterfaceState.xcuserstate
     │     └── xcuserdata
     │            └── handle.xcuserdatad
     │                   └── xcschemes
